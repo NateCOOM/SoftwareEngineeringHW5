@@ -1,0 +1,12 @@
+
+    Minimum:
+        Requires a 64-bit processor and operating system
+        OS: Windows 10/11 OR Linux arch64/x86_64
+        Processor: AMD / Intel (AVX2 Instruction Set) 
+        Memory: 8 GB RAM
+        Graphics: Radeon RX 570 (8GB VRAM) / GeForce GTX 1650 (4GB VRAM)
+	Storage: 10 GB GB available space
+	Notes: On Linux, it is recommended that a SWAP partition of 8GB should be used.
+
+
+
